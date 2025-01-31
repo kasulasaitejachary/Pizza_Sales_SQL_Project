@@ -170,10 +170,11 @@ FROM pizza_sales
 GROUP BY pizza_name
 ORDER BY "Total_Pizza_Sold" DESC
 LIMIT 5;
-
+```
 
 12. **Write a SQL query to calculate the Bottom 5 Worst seller by Total Pizzas Sold.**:
-
+    
+```sql
 SELECT
 	pizza_name,
 	SUM(quantity) AS "Total_Pizza_Sold"
@@ -181,9 +182,7 @@ FROM pizza_sales
 GROUP BY pizza_name
 ORDER BY "Total_Pizza_Sold" ASC
 LIMIT 5;
-
-
-
+```
 
  ## Findings
 
