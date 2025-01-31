@@ -184,6 +184,11 @@ ORDER BY "Total_Pizza_Sold" ASC
 LIMIT 5;
 ```
 
+## Pizza Sales Dashboard
+
+![Pizza Sales Dashboard Scrrenshot](https://github.com/user-attachments/assets/87b506b2-f1a8-4ccb-9084-6f78de1fd513)
+
+
  ## Findings
 
 - **Pizza Sales Demographics**: The dataset includes pizza orders from various date, times and pizza size with sales distributed across different categories such as Classic, Chicken, Veggie and Supreme.
