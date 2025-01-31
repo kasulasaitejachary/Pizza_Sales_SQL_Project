@@ -4,7 +4,7 @@
 
 **Project Title**: Pizza Sales Analysis
 
-This project is designed to demonstrate SQL skills and techniques typically used by data analysts to explore, clean, and analyze retail sales data. The project involves setting up a retail sales database, performing exploratory data analysis (EDA), and answering specific business questions through SQL queries.
+This project is designed to demonstrate SQL & Excel skills and techniques typically used by data analysts to explore, clean, and analyze retail sales data. The project involves setting up a retail sales database, performing exploratory data analysis (EDA), and answering specific business questions through SQL queries and creating excel dashboard.
 
 ## Objectives
 
@@ -204,7 +204,7 @@ LIMIT 5;
 
 ## Conclusion
 
-This project covering database setup, data cleaning, exploratory data analysis, and business-driven SQL queries. The findings from this project can help drive business decisions by understanding sales patterns, pizza trends, and sales performance.
+This project covering database setup, data cleaning, exploratory data analysis, business-driven SQL queries and creating excel dashboard. The findings from this project can help drive business decisions by understanding sales patterns, pizza trends, and sales performance.
 
 ## How to Use
 
@@ -215,7 +215,7 @@ This project covering database setup, data cleaning, exploratory data analysis, 
 
 ## Author - Saiteja
 
-This project is part of my portfolio, showcasing the SQL skills essential for data analyst roles. If you have any questions, feedback, or would like to collaborate, feel free to get in touch!
+This project is part of my portfolio, showcasing the SQL and Excel skills essential for data analyst roles. If you have any questions, feedback, or would like to collaborate, feel free to get in touch!
 
 ### Connect With Me!
 
